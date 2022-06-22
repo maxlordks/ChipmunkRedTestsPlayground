@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test_library_string">Test library string</string>
+    <string name="test_library_string2">222Test library string222</string>
+
+<!--    <public name="test_library_string2" type="string" />-->
+</resources>
